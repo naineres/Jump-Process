@@ -1,8 +1,8 @@
-Here is the project about jump processes in market Finance 
+
 
 This repository contains a collection of Monte Carlo simulators and option pricing models based on advanced stochastic processes. The aim is to implement, analyze, and compare different models for option pricing, including but not limited to the Merton jump diffusion model, bilateral Gamma processes, and variance gamma models.
 
-Models Included
+#Models Included
 Merton Jump Diffusion Model: Utilizes a Monte Carlo simulation approach to model option prices accounting for the randomness of jumps in the asset price.
 
 Bilateral Gamma Option Pricing: Implements a Monte Carlo simulation of a Bilateral Gamma option pricing model, including a variance gamma extension.
